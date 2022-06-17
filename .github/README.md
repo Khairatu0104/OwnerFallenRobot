@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/AnonymousR1025/FallenRobot/stargazers"><img src="https://te.legra.ph/file/a2d5cf277f2574f0dd848.jpg" alt="Stars" /></a>
+    <a href="https://github.com/AnonymousR1025/FallenRobot/stargazers"><img src="https://te.legra.ph/file/3feebdd2d98932d3f87fb.jpg" alt="Stars" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/AnonymousR1025/FallenRobot"> <img src="https://img.shields.io/github/repo-size/AnonymousR1025/FallenRobot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
